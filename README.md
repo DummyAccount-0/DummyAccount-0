@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
- /* <img src="https://i.imgur.com/wirbMlJ.gif" width="100%" alt="Animated Banner"> */
+ <!-- <img src="https://i.imgur.com/wirbMlJ.gif" width="100%" alt="Animated Banner"> -->
 </p>
 
 <h1 align="center">Hi 👋, I'm Rajat Prakash Dhal</h1>
