@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Multiple Things**
 
-- 👨‍💻 All of my projects are available at [rajatprakashdhal44444.com](rajatprakashdhal.com)
+- 👨‍💻 All of my projects are available at [rajatprakashdhal.com](https://rajatprakashdhal.com)
 
 - 📝 I regularly write articles on [rajatprakashdhal.com/blogs](rajatprakashdhal.com/blogs)
 
