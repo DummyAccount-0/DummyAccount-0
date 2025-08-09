@@ -18,7 +18,7 @@
 ### 🧠 About Me
 
 - 🔭 Currently exploring **Cybersecurity & DevOps**
-- 🌱 Learning: `Cloud`, `CI/CD`, `ML with Transformers`
+- 🌱 Learning: `Full-Stack (MERN)`,`Cloud`, `CI/CD`, `ML with Transformers`
 - 💻 Portfolio: [rajatprakashdhal.com](https://rajatprakashdhal.com)
 - 📝 Blog: [rajatprakashdhal.com/blogs](https://rajatprakashdhal.com/blogs)
 - 📄 Resume: [View CV](https://rajatprakashdhal.com/resume)
