@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Rajat Prakash Dhal</h1>
-<h3 align="center">🚀 Full-Stack Developer | MERN Stack | DevOps | Networks</h3>
+<h3 align="center">🚀 Full-Stack Developer | MERN Stack | DevOps | Computer Networks</h3>
 
 ---
 
