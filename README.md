@@ -52,7 +52,7 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis" />
 
   <!-- DevOps & Tools -->
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,git,linux" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,linux" />
 
   <!-- ML -->
   <img src="https://skillicons.dev/icons?i=python" />
